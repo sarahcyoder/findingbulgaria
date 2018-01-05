@@ -1,5 +1,4 @@
 # findingbulgaria (.com)
-=========================
 
 This repository contains code for my site FindingBuglaria.com
 
